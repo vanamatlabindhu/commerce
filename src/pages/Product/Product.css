@@ -1,0 +1,25 @@
+.product {
+  text-align: center;
+  padding: 30px;
+}
+
+.product-card {
+  display: inline-block;
+  width: 200px;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.product-card h2 {
+  color: blue;
+}
+
+.product-card button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
